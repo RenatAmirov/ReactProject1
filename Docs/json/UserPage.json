@@ -1,0 +1,13 @@
+
+{
+  fio: "Меркушев Сергей Иванович", 
+  birthDay: "18.01.1975", 
+  email: "merk@gmail.com", 
+  phone: "79502349448",
+  city: "Ижевск",
+  type: "Исполнитель",
+  photo: "www.ru",
+  status: true,
+  
+}
+  
